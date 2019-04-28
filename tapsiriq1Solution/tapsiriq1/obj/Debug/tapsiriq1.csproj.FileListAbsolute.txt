@@ -1,0 +1,7 @@
+C:\Users\povil\Desktop\c#\tapsiriq1\tapsiriq1Solution\tapsiriq1\bin\Debug\tapsiriq1.exe.config
+C:\Users\povil\Desktop\c#\tapsiriq1\tapsiriq1Solution\tapsiriq1\bin\Debug\tapsiriq1.exe
+C:\Users\povil\Desktop\c#\tapsiriq1\tapsiriq1Solution\tapsiriq1\bin\Debug\tapsiriq1.pdb
+C:\Users\povil\Desktop\c#\tapsiriq1\tapsiriq1Solution\tapsiriq1\obj\Debug\tapsiriq1.csprojAssemblyReference.cache
+C:\Users\povil\Desktop\c#\tapsiriq1\tapsiriq1Solution\tapsiriq1\obj\Debug\tapsiriq1.csproj.CoreCompileInputs.cache
+C:\Users\povil\Desktop\c#\tapsiriq1\tapsiriq1Solution\tapsiriq1\obj\Debug\tapsiriq1.exe
+C:\Users\povil\Desktop\c#\tapsiriq1\tapsiriq1Solution\tapsiriq1\obj\Debug\tapsiriq1.pdb
